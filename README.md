@@ -1,6 +1,25 @@
 # About
 
 this is collection of simple C program example.  
+
+Clone this repository:
+
+using HTTPS:
+
+```sh
+git clone https://github.com/GWLGT/C-Simple-Program-Example.git
+
+cd c-simple-program
+```
+
+using SSH:
+
+```sh
+git clone git@github.com:GWLGT/C-Simple-Program-Example.git
+
+cd c-simple-program
+```
+
 To compile it, run:
 
 ```sh
