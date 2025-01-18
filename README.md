@@ -36,4 +36,4 @@ make clean
 
 **Note:**  
 
-I'm still learning at C, there's not much i can make🗿.
+I'm still learn C, there's not much i can make🗿.
